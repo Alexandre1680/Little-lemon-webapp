@@ -1,4 +1,4 @@
-import footerlogo from "./Asset/footerlogo.png"
+import footerlogo from "../Asset/footerlogo.png"
 
 function Footer(props){
     return(

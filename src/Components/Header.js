@@ -1,4 +1,4 @@
-import logo from './Asset/Logo.svg'
+import logo from '../Asset/Logo.svg'
 
 function Header(props){
     return (
