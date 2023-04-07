@@ -1,4 +1,5 @@
 import logo from '../Asset/Logo.svg'
+import "./Header.css"
 
 function Header(props){
     return (

@@ -1,0 +1,22 @@
+nav {
+    padding: 1rem 0 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0 1rem 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:hover{
+    font-weight: bold;
+}

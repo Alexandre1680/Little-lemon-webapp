@@ -1,0 +1,98 @@
+/* Hero Section*/
+
+.heroSection {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.heroContainer {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    width: 750px;
+    height: 400px;
+}
+
+.heroSection img {
+    height: 300px;
+    width: auto;
+}
+
+.heroDiv{
+    height: 300px;
+    width: 30%;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.heroDiv button{
+    width: 112.5px;
+    height: 30px;
+}
+
+/*Highlights*/
+
+.highlights {
+    display: flex;
+    justify-content: center;
+}
+
+.highlightContainer {
+    width: 750px;
+}
+
+.specialsHeading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+
+.specialsHeading button {
+    width: 112.5px;
+    height: 30px;
+}
+
+.cardSpecial {
+    height: 400px;
+}
+
+/*Testimonials*/
+
+.testimonials {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.testimonialContainer {
+   background-color: black;
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 750px;
+   height: 400px;
+}
+
+.testimonialHeading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100px;
+}
+
+.cardReview {
+    height: 400px;
+}
+
+/*About*/
